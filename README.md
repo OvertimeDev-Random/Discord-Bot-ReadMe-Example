@@ -8,6 +8,7 @@
 
 2. Run Node.js Installer:
    - Run the Node.js installer and follow the installation process. Make sure to check the box "Automatically install the necessary tools..." during the install process.
+  
    ![Node.js Install](https://i.imgur.com/eU1mqQG.png)
 
 3. Configure the Bot:
