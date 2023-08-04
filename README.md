@@ -22,6 +22,7 @@
 
 4. Bot Configuration:
    - Navigate to the files of the bot.
+   
    ![Bot Files](https://i.imgur.com/OxhH0KP.png)
    - Open the file named `config.js` in any code editor of your choice (recommended: VS Code).
    - Locate line 2 in `config.js` and find the "token" field inside the double quotes. Replace the existing placeholder with the token you saved earlier.
