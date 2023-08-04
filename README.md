@@ -1,29 +1,33 @@
-### Welcome to Overtime Ticket Bot ###
+# Overtime Ticket Bot
 
-## Installation ##
-- First got to https://nodejs.org/it/download/current and download the latest version for your system (Windows/Mac/Linux)
-![alt text](https://i.imgur.com/LGkhWvH.png)
-- Once you have downloaded nodejs installer you need to run the installer and install node.js (Make sure to check this box during the install process) 
-![alt text](https://i.imgur.com/eU1mqQG.png) 
-- Once you have successfully installed node.js you can proceed configuring the bot.
-- Go to https://discord.com/developers/applications and create a application for the bot!
-[alt text](https://i.imgur.com/oT2cyYH.png)
+## Installation
 
-- Once you have successfully created the application for the bot click on the newly made application and start configuring the bot.
-- Click on the left side and select the Bot category
+1. Download and Install Node.js:
+   - Go to [Node.js Website](https://nodejs.org) and download the latest version for your operating system (Windows/Mac/Linux).
+   ![Node.js Download](https://i.imgur.com/LGkhWvH.png)
 
-![alt text](https://i.imgur.com/hz7v4rt.png)
-- Once in the bot category click the "Reset Token" button and copy the token and save it somewhere easy to find (You will need it shortly)
-- Now you can set the settings of the bot to match this
-![alt text](https://i.imgur.com/58M1Dif.png)
-- Once you have successfully set the settings of the bot you can now head over to the files of the bot.
-![alt text](https://i.imgur.com/OxhH0KP.png)
-- Open the file named config.js in any code editor of your choice (Recommend VS Code but not required.)
-- At line 2. of config.js you will see a line that says "token" inside the "" you will paste your token that you saved earlier.
+2. Run Node.js Installer:
+   - Run the Node.js installer and follow the installation process. Make sure to check the box "Automatically install the necessary tools..." during the install process.
+   ![Node.js Install](https://i.imgur.com/eU1mqQG.png)
 
-![alt text](https://i.imgur.com/R7KyJqp.png)
-- Once you have successfully set your token you can start to configure the bot channels and perferance settings
+3. Configure the Bot:
+   - Create a new application for the bot on Discord by going to [Discord Developer Portal](https://discord.com/developers/applications).
+   ![Create Application](https://i.imgur.com/oT2cyYH.png)
+   - Click on the newly created application and navigate to the "Bot" category on the left side.
+   ![Bot Category](https://i.imgur.com/hz7v4rt.png)
+   - Click the "Reset Token" button to generate a token for your bot and save it somewhere easily accessible (you will need it later).
+   - Adjust the bot settings to match the following:
+   ![Bot Settings](https://i.imgur.com/58M1Dif.png)
 
+4. Bot Configuration:
+   - Navigate to the files of the bot.
+   ![Bot Files](https://i.imgur.com/OxhH0KP.png)
+   - Open the file named `config.js` in any code editor of your choice (recommended: VS Code).
+   - Locate line 2 in `config.js` and find the "token" field inside the double quotes. Replace the existing placeholder with the token you saved earlier.
+   ![Token Configuration](https://i.imgur.com/R7KyJqp.png)
 
+5. Configure Bot Channels and Preferences:
 
-#### Copyright Overtime Development 2023 ####
+## Copyright
+
+(C) Overtime Development 2023
